@@ -31,10 +31,6 @@ export default defineConfig({
       }
     })
   ],
-  build: {
-    outDir: resolve('C:/http'),
-    emptyOutDir: true
-  },
   server: {
     port: 5173
   },
