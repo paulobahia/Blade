@@ -15,14 +15,14 @@ export default defineConfig({
         theme_color: '#ffffff',
         icons: [
           {
-            src: '/icons/blade.jpg',
+            src: '/icons/blade192x192.png',
             sizes: '192x192',
-            type: 'image/jpg'
+            type: 'image/png'
           },
           {
-            src: '/icons/blade.jpg',
+            src: '/icons/blade512x512.png',
             sizes: '512x512',
-            type: 'image/jpg'
+            type: 'image/png'
           }
         ],
         display: 'standalone',
